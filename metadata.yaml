@@ -1,0 +1,30 @@
+_repo: Res-Judicat-Papers-and-Essays_37159
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37159-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Birrell, Augustine
+    birthdate: 1850
+    deathdate: 1933
+    gutenberg_agent_id: '2413'
+    url: http://www.gutenberg.org/2009/agents/2413
+    wikipedia: http://en.wikipedia.org/wiki/Augustine_Birrell
+description: ''
+gutenberg_issued: '2011-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37159'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- History and criticism'
+- !lcc 'PR'
+tableOfContents: Samuel Richardson -- Edward Gibbon -- William Cowper -- George Borrow
+  -- Cardinal Newman -- Matthew Arnold -- William Hazlitt -- The letters of Charles
+  Lamb -- Authors in court -- Nationality -- The Reformation -- Sainte-Beuve.
+title: 'Res Judicatæ: Papers and Essays'
+url: http://www.gutenberg.org/ebooks/37159
