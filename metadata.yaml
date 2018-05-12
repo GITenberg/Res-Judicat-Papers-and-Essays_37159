@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2413
     wikipedia: http://en.wikipedia.org/wiki/Augustine_Birrell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37159#Res-Judicat-Papers-and-Essays
 gutenberg_issued: '2011-08-22'
 gutenberg_type: Text
 identifiers:
